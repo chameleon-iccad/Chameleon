@@ -3,8 +3,6 @@
 [![built with Python3.6](https://img.shields.io/badge/build%20with-python%203.6-red.svg)](https://www.python.org/)
 [![built with PyTorch1.4](https://img.shields.io/badge/build%20with-pytorch%201.4-brightgreen.svg)](https://pytorch.org/)
 
-<img src="https://repository-images.githubusercontent.com/239764197/2c621f00-8f13-11ea-8250-162421cbd36b" width="400"/>
-
 ### Introduction
 
 In this repository you will find a pytorch implementation of Chameleon with
